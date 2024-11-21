@@ -49,6 +49,10 @@ The script utilizes a combination of query selectors and event dispatching to au
 // ==/UserScript==
 ```
 
-## Original Author: https://github.com/dante4rt/Galxe-AutoComplete-Tasks
-## **My Twitter: [[Jason傑森 🇭🇰|🛠️](https://x.com/cheuk_baby)，If you find it useful, please give me a follow)**
-## **If you encounter any problems during use, welcome to join my Discord: https://discord.gg/DqpSsv9jbZ, I will be here to help you.**
+
+## **My Twitter: [Jason傑森 🇭🇰|🛠️](https://x.com/cheuk_baby)**
+## **My Discord: https://discord.gg/DqpSsv9jbZ**
+
+
+
+### Original Author: https://github.com/dante4rt/Galxe-AutoComplete-Tasks
