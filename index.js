@@ -7,8 +7,8 @@
 // @license      Jason
 // @match        https://app.galxe.com/quest/*/*
 // @grant        none
-// @downloadURL https://update.greasyfork.org/scripts/507747/Auto%20Input%20and%20Click%20Infinity%20AI.user.js
-// @updateURL https://update.greasyfork.org/scripts/507747/Auto%20Input%20and%20Click%20Infinity%20AI.meta.js
+// @downloadURL https://github.com/2246250622/Galxe-TaskAutomator
+// @updateURL https://github.com/2246250622/Galxe-TaskAutomator
 // ==/UserScript==
 
 (function() {
