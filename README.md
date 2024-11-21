@@ -19,13 +19,23 @@
 ## 🛠️ How It Works
 The script utilizes a combination of query selectors and event dispatching to automate interactions with the Galxe platform. It includes a 4-second delay at the start to ensure all elements are properly loaded before executing the tasks.
 
-## 📥 Installation
+## 📥 Installation(Eng)
 
 1. **Install Tampermonkey**: If you haven't already, install Tampermonkey from [here](https://www.tampermonkey.net/).
 2. **Add the Script**: Click on the Tampermonkey extension icon and select 'Create a new script'.
 3. **Copy and Paste the Script**: Copy the contents of `index.js` and paste it into the new script editor.
 4. **Save**: Click the file icon to save the script.
 5. **Enable**: Ensure the script is enabled in the Tampermonkey dashboard.
+
+
+## 📥 安裝(中文)
+
+1. **安裝 Tampermonkey**：如果您尚未安裝 Tampermonkey，請從[此處](https://www.tampermonkey.net/) 安裝 Tampermonkey。
+2. **新增腳本**：點擊 Tampermonkey 擴充圖示並選擇「建立新腳本」。
+3. **複製並貼上腳本**：複製`index.js`的內容並將其貼上到新的腳本編輯器中。
+4. **儲存**：點選檔案圖示儲存腳本。
+5. **啟用**：確保在 Tampermonkey 儀表板中啟用腳本。
+
 
 ## 🚀 Usage
 
