@@ -1,10 +1,5 @@
 # Galxe-TaskAutomator
 
-## Connect with Me
-- **Twitter**: [Jason傑森 🇭🇰|🛠️](https://x.com/cheuk_baby)
-- **Discord**: [Join my Discord](https://discord.gg/DqpSsv9jbZ)
-
-
 ## Overview
 **Galxe-TaskAutomator** is a Tampermonkey script designed to automate various tasks on the Galxe platform, making your experience smoother and more efficient. This script handles task completions and optimizes your workflow by automating routine interactions.
 
@@ -54,7 +49,9 @@ The script utilizes a combination of query selectors and event dispatching to au
 // ==/UserScript==
 ```
 
-
+## Connect with Me
+- **Twitter**: [Jason傑森 🇭🇰|🛠️](https://x.com/cheuk_baby)
+- **Discord**: [Join my Discord](https://discord.gg/DqpSsv9jbZ)
 
 
 
