@@ -39,6 +39,6 @@
 
 https://discord.gg/DqpSsv9jbZ
 
-＃＃ 執照
+## 執照
 
 該項目已獲得 MIT 許可證的許可。有關詳細信息，請參閱 [LICENSE](LICENSE) 文件。
