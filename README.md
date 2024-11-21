@@ -1,5 +1,3 @@
-Sure thing! Let's add some more emojis and improve the visual appeal of your README:
-
 # 🚀 Galxe-TaskAutomator
 
 ## 🌟 Overview
