@@ -4,6 +4,13 @@
 **Galxe-TaskAutomator** is a Tampermonkey script designed to automate various tasks on the Galxe platform, making your experience smoother and more efficient. This script handles task completions and optimizes your workflow by automating routine interactions.
 
 ## Features
+- **Automated Task Completion**: Tasks are completed automatically, except for following on Twitter or joining Discord channels.
+- **Completion Check**: The script automatically checks if tasks are completed.
+- **Error Handling**: If a task fails, the script will auto-reload the task.
+- **Auto Claim**: Rewards are claimed automatically once tasks are completed.
+- **Pop-up Management**: Modal pop-ups are closed automatically, keeping your screen clear.
+
+## Aims
 - Automates task completions on the Galxe platform.
 - Efficiently clicks through elements and completes actions.
 - Includes a delay to ensure proper execution of tasks.
