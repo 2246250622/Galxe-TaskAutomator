@@ -19,7 +19,7 @@
 ## 🛠️ How It Works
 The script utilizes a combination of query selectors and event dispatching to automate interactions with the Galxe platform. It includes a 4-second delay at the start to ensure all elements are properly loaded before executing the tasks.
 
-## 📥 Installation(Eng)
+## 📥 Installation(English)
 
 1. **Install Tampermonkey**: If you haven't already, install Tampermonkey from [here](https://www.tampermonkey.net/).
 2. **Add the Script**: Click on the Tampermonkey extension icon and select 'Create a new script'.
