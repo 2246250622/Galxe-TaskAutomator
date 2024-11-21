@@ -1,44 +1,42 @@
 # Galxe-TaskAutomator
 
+## Overview
+**Galxe-TaskAutomator** is a Tampermonkey script designed to automate various tasks on the Galxe platform, making your experience smoother and more efficient. This script handles task completions and optimizes your workflow by automating routine interactions.
 
-歡迎來到「Galxe-TaskAutomator」儲存庫！該腳本旨在自動化 Galxe 平台上的各種任務，讓您的體驗更流暢、更有效率。
+## Features
+- Automates task completions on the Galxe platform.
+- Efficiently clicks through elements and completes actions.
+- Includes a delay to ensure proper execution of tasks.
+- Designed to enhance user experience by reducing manual effort.
 
-## 特點🌟
+## How It Works
+The script utilizes a combination of query selectors and event dispatching to automate interactions with the Galxe platform. It includes a 4-second delay at the start to ensure all elements are properly loaded before executing the tasks.
 
-- **自動任務完成**：任務自動完成，除了在 Twitter 上追蹤或加入 Discord 頻道之外。
-- **完成檢查**：腳本自動檢查任務是否完成。
-- **錯誤處理**：如果任務失敗，腳本將自動重新載入任務。
-- **自動領取**：任務完成後自動領取獎勵。
-- **彈出視窗管理**：模態彈出視窗自動關閉，保持螢幕清晰。
+## Installation
 
-## 先決條件📋
+1. **Install Tampermonkey**: If you haven't already, install Tampermonkey from [here](https://www.tampermonkey.net/).
+2. **Add the Script**: Click on the Tampermonkey extension icon and select 'Create a new script'.
+3. **Copy and Paste the Script**: Copy the contents of `index.js` and paste it into the new script editor.
+4. **Save**: Click the file icon to save the script.
+5. **Enable**: Ensure the script is enabled in the Tampermonkey dashboard.
 
-在開始使用此腳本之前，請確保您擁有：
+## Usage
 
-- 需要完成任務的 Galxe 帳號。
-- 在網頁瀏覽器上存取開發人員工具（通常透過在 Mac 上按下「Ctrl+Shift+I」或「Cmd+Opt+I」來存取）。
+1. Navigate to the Galxe platform: [Galxe Quests](https://app.galxe.com/quest/*/*).
+2. The script will automatically execute after a 4-second delay, automating the task completion process.
+3. Monitor the script’s progress through the console logs.
 
-## 用法 📖
+## Script Details
 
-若要使用該腳本：
-
-1. 在 Web 瀏覽器中開啟 DevTools。
-2. 導覽至「控制台」標籤。
-3. 複製腳本程式碼（index.js）並將其貼到控制台中。
-4. 按“Enter”運行腳本。
-
-## 貢獻🤝
-
-貢獻使開源社群成為學習、啟發和創造的絕佳場所。 **非常感謝您所做的任何貢獻**。
-
-如果您有更好的建議，請分叉儲存庫並建立拉取請求。您也可以簡單地開啟帶有“增強”標籤的問題。
-
-不要忘記給該項目一顆星！再次感謝！
-
-## 社區
-
-https://discord.gg/DqpSsv9jbZ
-
-## 執照
-
-該項目已獲得 MIT 許可證的許可。有關詳細信息，請參閱 [LICENSE](LICENSE) 文件。
+### Metadata Block
+```javascript
+// ==UserScript==
+// @name         Galxe-TaskAutomator
+// @namespace    http://tampermonkey.net/
+// @version      1.0
+// @description  This script is designed to automate various tasks on the Galxe platform, making your experience smoother and more efficient.
+// @downloadURL  https://github.com/2246250622/Galxe-TaskAutomator
+// @updateURL    https://github.com/2246250622/Galxe-TaskAutomator
+// @match        https://app.galxe.com/quest/*/*
+// @grant        none
+// ==/UserScript==
