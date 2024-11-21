@@ -50,8 +50,7 @@ The script utilizes a combination of query selectors and event dispatching to au
 ```
 
 
-## **My Twitter: [Jason傑森 🇭🇰|🛠️](https://x.com/cheuk_baby)**
-My Discord: https://discord.gg/DqpSsv9jbZ**
+## **My Twitter: [Jason傑森 🇭🇰|🛠️](https://x.com/cheuk_baby)**\nMy Discord: https://discord.gg/DqpSsv9jbZ**
 
 
 
