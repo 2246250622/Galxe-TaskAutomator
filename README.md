@@ -51,8 +51,8 @@ The script utilizes a combination of query selectors and event dispatching to au
 
 
 ## **My Twitter: [Jason傑森 🇭🇰|🛠️](https://x.com/cheuk_baby)**
-##**My Discord: https://discord.gg/DqpSsv9jbZ**
+My Discord: https://discord.gg/DqpSsv9jbZ**
 
 
 
-### Original Author: https://github.com/dante4rt/Galxe-AutoComplete-Tasks
+
